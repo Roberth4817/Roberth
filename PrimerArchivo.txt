@@ -7,3 +7,5 @@ ABC
 Es una persona genial.
 
 Solo agrego lineas
+
+Linea Conflicto
